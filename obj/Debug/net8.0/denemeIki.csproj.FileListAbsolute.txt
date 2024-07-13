@@ -1,0 +1,14 @@
+C:\Users\yusuf\yazılım_Denemeler\denemeProje\denemeIki\bin\Debug\net8.0\denemeIki.exe
+C:\Users\yusuf\yazılım_Denemeler\denemeProje\denemeIki\bin\Debug\net8.0\denemeIki.deps.json
+C:\Users\yusuf\yazılım_Denemeler\denemeProje\denemeIki\bin\Debug\net8.0\denemeIki.runtimeconfig.json
+C:\Users\yusuf\yazılım_Denemeler\denemeProje\denemeIki\bin\Debug\net8.0\denemeIki.dll
+C:\Users\yusuf\yazılım_Denemeler\denemeProje\denemeIki\bin\Debug\net8.0\denemeIki.pdb
+C:\Users\yusuf\yazılım_Denemeler\denemeProje\denemeIki\obj\Debug\net8.0\denemeIki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\yazılım_Denemeler\denemeProje\denemeIki\obj\Debug\net8.0\denemeIki.AssemblyInfoInputs.cache
+C:\Users\yusuf\yazılım_Denemeler\denemeProje\denemeIki\obj\Debug\net8.0\denemeIki.AssemblyInfo.cs
+C:\Users\yusuf\yazılım_Denemeler\denemeProje\denemeIki\obj\Debug\net8.0\denemeIki.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\yazılım_Denemeler\denemeProje\denemeIki\obj\Debug\net8.0\denemeIki.dll
+C:\Users\yusuf\yazılım_Denemeler\denemeProje\denemeIki\obj\Debug\net8.0\refint\denemeIki.dll
+C:\Users\yusuf\yazılım_Denemeler\denemeProje\denemeIki\obj\Debug\net8.0\denemeIki.pdb
+C:\Users\yusuf\yazılım_Denemeler\denemeProje\denemeIki\obj\Debug\net8.0\denemeIki.genruntimeconfig.cache
+C:\Users\yusuf\yazılım_Denemeler\denemeProje\denemeIki\obj\Debug\net8.0\ref\denemeIki.dll
